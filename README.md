@@ -30,15 +30,6 @@ Access user settings, upgrade plans, and logout options through a user profile d
 
 ---
 
-## How to Add Screenshots
-
-1. Take screenshots of the features as shown above.
-2. Save them in the `screenshots/` directory at the root of the project.
-3. Name the files as indicated in the image placeholders.
-4. The README will automatically display the screenshots in the respective sections.
-
----
-
 ## Getting Started
 
 Instructions to run the project locally:
